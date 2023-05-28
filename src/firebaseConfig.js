@@ -5,13 +5,13 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyChVbZ-WbUpUM_i3IG13Arh5Knr18c85Dk",
-  authDomain: "typingspeed-de246.firebaseapp.com",
-  projectId: "typingspeed-de246",
-  storageBucket: "typingspeed-de246.appspot.com",
-  messagingSenderId: "945364561502",
-  appId: "1:945364561502:web:e7b3ee3921934fc3a04ecf",
-  measurementId: "G-BV62C5JCQY"
+  apiKey: "AIzaSyBiZwnJvo7eqMB7tmcjfhcTpiq4z8aWgTE",
+  authDomain: "type-king.firebaseapp.com",
+  projectId: "type-king",
+  storageBucket: "type-king.appspot.com",
+  messagingSenderId: "810102252866",
+  appId: "1:810102252866:web:0b0892bc91ebc7c00d14db",
+  measurementId: "G-W9QN6SY6NJ"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
